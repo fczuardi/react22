@@ -1,0 +1,10 @@
+{
+  "name": "react22",
+  "version": "0.1.0",
+  "description": "temporary project to play with react and typescript tooling",
+  "main": "index.js",
+  "repository": "git@personal.github.com:fczuardi/react22.git",
+  "author": "Fabricio C Zuardi <fabricio.fabricio.org>",
+  "license": "MIT",
+  "private": false
+}
